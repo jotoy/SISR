@@ -10,17 +10,4 @@ Figure 2 shows the comparison results for six (more detailed comparison can be f
 ![Cover](result/eval_on_real_LR_1.png)
 <p align="center">Figure 2</p>
 
-## Citation
-Please refer to the following if this repository is useful for your research.
 
-## Bibtex:
-```
-@misc{zhao2018unsupervised,
-    title={Unsupervised Degradation Learning for Single Image Super-Resolution},
-    author={Tianyu Zhao and Wenqi Ren and Changqing Zhang and Dongwei Ren and Qinghua Hu},
-    year={2018},
-    eprint={1812.04240},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
-}
-```
