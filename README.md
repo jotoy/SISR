@@ -10,6 +10,9 @@ Figure 2 shows the comparison results for six (more detailed comparison can be f
 ![Cover](result/eval_on_real_LR_1.png)
 <p align="center">Figure 2</p>
 
+## Citation
+Please refer to the following if this repository is useful for your research.
+
 ## Bibtex:
 ```
 @misc{zhao2018unsupervised,
