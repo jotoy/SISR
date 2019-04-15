@@ -14,4 +14,9 @@ Figure 2 shows the comparison results for six (more detailed comparison can be f
 ![Cover](result/eval_on_real_LR_1.png)
 <p align="center">Figure 2</p>
 
+## TODO list
+- [ ] update Readme
+- [ ] upload my code
+  - [ ] add super parameters
+- [ ] upload more results
 
